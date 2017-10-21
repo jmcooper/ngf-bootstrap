@@ -1,0 +1,23 @@
+{
+  "name": "ng2f-bootstrap",
+  "version": "0.0.4",
+  "description": "Custom bootstrap for Angular 2 Fundamentals course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmcooper/ng2f-bootstrap.git"
+  },
+  "author": "Jim Cooper",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/jmcooper/ng2f-bootstrap/issues"
+  },
+  "homepage": "https://github.com/jmcooper/ng2f-bootstrap#readme"
+}
